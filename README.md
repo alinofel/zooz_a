@@ -35,7 +35,7 @@ git clone https://github.com/alinofel/zooz_a && cd zooz_a && chmod +x install.sh
 
 • من يخلص التنصيب تفتح ملف 
 
-TSHAKE.sh
+zooz_a.sh
 
 • وتحط التوكن بهل طريقه 
 
@@ -57,7 +57,7 @@ redis-server
 
 • وراه تسوي رن من ملف 
 
-TSHAKE-auto.sh
+zooz_a-auto.sh
 
 ֆ • • • • • • • • • • • • • ֆ
 
@@ -71,7 +71,7 @@ redis-server
 
 • بعده اسوي رن من ملف 
 
-TSHAKE-auto.sh
+zooz_a-auto.sh
 
 ֆ • • • • • • • • • • • • • ֆ
 
