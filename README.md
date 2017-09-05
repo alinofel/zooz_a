@@ -10,11 +10,10 @@
 
 • افتح ترمنال وحط 
 
-git clone https://github.com/moodlIMyIl/TshAkEapi
-
+git clone https://github.com/alinofel/zooz_a
 • انتر وراه حط •
 
-cd TshAkEapi
+cd zooz_a
 
 • وانتر وراه حط •
 
@@ -28,7 +27,7 @@ chmod +x install.sh
 
 • او نصب بكود واحد 
 
-git clone https://github.com/moodlIMyIl/TshAkEapi && cd TshAkEapi && chmod +x install.sh && ./install.sh
+git clone https://github.com/alinofel/zooz_a && cd zooz_a && chmod +x install.sh && ./install.sh
 
 • وراح يطلب منك اثناء التنصيب تحط y او n دائما اختار y •
 
