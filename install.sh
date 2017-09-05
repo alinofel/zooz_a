@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-cd TshAkEapi
+cd zooz_a
 red() {
   printf '\e[1;31m%s\n\e[0;39;49m' "$@"
 }
@@ -18,8 +18,8 @@ Dev() {
 aa() {
  sudo apt-get install
 }
-function logo1_TshAkE() {
-green "     »»             Welcome to TshAkE APi bot                       ««      "
+function logo1_zooz_a() {
+green "     »»             Welcome to zooz_a bot                       ««      "
 green "     »»               I install it for you                          ««      "
 yellow ""
 yellow ""
@@ -32,7 +32,7 @@ yellow "            |_||___/_| |_/_/   \_\_|\_\_____|   "
 yellow "                                          "
 yellow ""
 }
-function logo2_TshAkE() {
+function logo2_zooz_a() {
 yellow ""
 yellow ""
 yellow ""
@@ -52,11 +52,11 @@ Dev    "            Dev @lIESIl"
 Dev    "            Dev @h_k_a"
 yellow ""
 yellow ""
-green "     »»           TshAkE APi successfully installed                 ««      "
+green "     »»           zooz_a successfully installed                 ««      "
 green "     »»            Run this command for launch bot                  ««      "
-red   "     »»                   ./TSHAKE.sh                               ««      "
+red   "     »»                   ./zooz_a.sh                               ««      "
 }
-function install_TshAkE() {
+function install_zooz_a() {
 sudo apt-get update
 
 sudo apt-get upgrade -y
@@ -78,7 +78,7 @@ sudo apt-get upgrade -y
 sudo apt-get dist-upgrade -y
 
 }
-function VICTOR_TshAkE() {
+function VICTOR_zooz_a() {
 wget http://luarocks.org/releases/luarocks-2.2.2.tar.gz
  tar zxpf luarocks-2.2.2.tar.gz
  rm luarocks-2.2.2.tar.gz
@@ -106,19 +106,19 @@ wget http://luarocks.org/releases/luarocks-2.2.2.tar.gz
  sudo pip install redis
  cd ..
 }
-function MOODY_TshAkE() {
- cd TshAkEapi
+function alinofel_zooz_a() {
+ cd zooz_a
  rm -rf "luarocks-2.2.2"
  wget "https://valtman.name/files/telegram-cli-1222"
  mv telegram-cli-1222 tg
 }
-function chmod_TshAkE() {
+function chmod_zooz_a() {
  chmod +x tg
- chmod +x TSHAKE.sh
- chmod +x TSHAKE-Auto.sh
+ chmod +x zooz_a.sh
+ chmod +x zooz_a-Auto.sh
 }
 
-logo1_TshAkE
+logo1_zooz_a
 install_TshAkE
 VICTOR_TshAkE
 MOODY_TshAkE
