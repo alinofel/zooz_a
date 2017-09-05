@@ -119,8 +119,8 @@ function chmod_zooz_a() {
 }
 
 logo1_zooz_a
-install_TshAkE
-VICTOR_TshAkE
-MOODY_TshAkE
-chmod_TshAkE
-logo2_TshAkE
+install_zooz_a
+VICTOR_zooz_a
+MOODY_zooz_a
+chmod_zooz_a
+logo2_zooz_a
